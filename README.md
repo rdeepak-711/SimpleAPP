@@ -15,3 +15,6 @@ APP 5⏱ :
 
 APP 6📼 :  
     A simple video playing the background. The video play can be controlled with pause and play button in the bottom.
+
+APP 7🇹🇬 : 
+    A toggle navigation tab made using HTML, CSS and JavaScript.
