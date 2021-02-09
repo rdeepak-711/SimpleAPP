@@ -1,0 +1,20 @@
+body {
+    background: #474A4B;
+}
+
+.container {
+    text-align: center;
+    margin-top: 40vh;
+    height: 300px;
+    width: 450px;
+    background: #F9F6ED;
+    padding: 80px;
+}
+
+h1 {
+    color: rgb(228, 105, 23);
+}
+
+button {
+    font-size:20px;
+}
