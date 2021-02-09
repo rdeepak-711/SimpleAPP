@@ -12,3 +12,6 @@ APP 4🕗 :
 
 APP 5⏱ :
     A simple stopwatch app using HTML, CSS and JavaScript. It is just the correct usage of JavaScript functions that makes it possible.
+
+APP 6📼 :  
+    A simple video playing the background. The video play can be controlled with pause and play button in the bottom.
