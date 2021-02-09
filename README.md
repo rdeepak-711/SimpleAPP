@@ -9,3 +9,6 @@ APP 3🕯 :
 
 APP 4🕗 :
     An easy clock app that used the Date object from JavaScript and runs the function every 1 second(1000 milliseconds) with the help of setInterval keyword.
+
+APP 5⏱ :
+    A simple stopwatch app using HTML, CSS and JavaScript. It is just the correct usage of JavaScript functions that makes it possible.
