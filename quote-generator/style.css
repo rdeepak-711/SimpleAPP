@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+    margin-top: 40vh;
+    background: white;
+    width: 40rem;
+    height: 18rem;
+    padding: 2rem;
+}
+h1{
+    color: chocolate;
+}
+body{
+    background: grey;
+}
