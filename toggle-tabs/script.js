@@ -5,6 +5,6 @@ function openCity(event, cityName) {
     for(i = 0; i < tabContent.length; i++){
         tabContent[i].style.display = "none";
     }
-
+ 
     document.getElementById(cityName).style.display = "block";
 }
