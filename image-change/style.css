@@ -25,17 +25,19 @@ html, body{
 
 .bg-text {
     background-color: rgb(0, 0, 0);
-    background-color: rgbs(0, 0, 0, 0.4);
     color: white;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 60px;
     border: 10px solid #f1f1f1;
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 300px;
-    padding: 20px;
     text-align: center;
-    z-index: 2;
+}
+
+@media (max-width: 850px){
+    .bg-text{
+        font-size: 30px;
+    }
 }
