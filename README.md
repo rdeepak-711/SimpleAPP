@@ -18,3 +18,6 @@ APP 6📼 :
 
 APP 7🇹🇬 : 
     A toggle navigation tab made using HTML, CSS and JavaScript.
+
+APP 8📜 : 
+    A simple app created using HTML and CSS. The web app is designed in such a way that upon scrolling the images slowly change whereas the text remains where it is(in the center).
