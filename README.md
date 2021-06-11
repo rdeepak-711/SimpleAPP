@@ -26,4 +26,4 @@ APP 9:
     An easy to do project. A simple button that helps you navigate straicht to the top on one click. Made using HTML, CSS and JS.
 
 APP 10:
-    Creating an animated button that has an effect similar to water ripples. Upon clicking the button ripples are sent till the end taking the point of click as the starting point. Made using HTMl, CSS and JS.
+    Creating an animated button that has an effect similar to water ripples. Upon clicking the button ripples are sent till the end taking the point of click as the starting point. Made using HTMl, CSS and JS.git 
