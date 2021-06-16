@@ -30,3 +30,6 @@ APP 10:
 
 APP 11: 
     Creating a responsive navbar using HTML and CSS. Icons and some of their styling is from fontawesome. The navbar has some hover animation effect too.
+
+APP 12:
+    A loading screen animation created using HTML and CSS. The animation is all about the timing in the animation and the opacity of the colours used.
