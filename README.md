@@ -33,3 +33,9 @@ APP 11:
 
 APP 12:
     A loading screen animation created using HTML and CSS. The animation is all about the timing in the animation and the opacity of the colours used.
+
+APP 13:
+    Bouncy ball loader page created using HTML, CSS and JS. The JS also shows a way to add loader page to a website.
+
+APP 14:
+    Login and Sign up page created using HTML, CSS and JS. Th page is designed so that people can easily hop for one to another at ease.
